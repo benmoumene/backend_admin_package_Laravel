@@ -1,3 +1,9 @@
+**Package no longer maintained**
+
+Please consider Laravel AJAX CRUD instead: https://github.com/kdion4891/laravel-ajax-crud
+
+---
+
 Laraback is a backend/admin package for Laravel 5.6 including demo mode, user activity logs, auth integration, roles/permissions, settings, Bootstrap 4 with responsive/collapsing sidebar, FontAwesome 5, Datatables, BREAD command/generator, AJAX forms/validation, & more.
 
 # Demo & Tutorial Videos
